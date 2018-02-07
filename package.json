@@ -1,0 +1,30 @@
+{
+  "name": "n-business",
+  "version": "1.0.0",
+  "description": "Test Line Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naristhararuk/N-Business.git"
+  },
+  "keywords": [
+    "Line",
+    "Bot"
+  ],
+  "author": "naristhararuk",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/naristhararuk/N-Business/issues"
+  },
+  "homepage": "https://github.com/naristhararuk/N-Business#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "linebot": "^1.4.1",
+    "request": "^2.83.0"
+  }
+}
